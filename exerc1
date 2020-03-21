@@ -1,2 +1,13 @@
 //Exercício 1
 <!--O que é um automovel-->
+É um veículo motorizado usado para transporte de cargas e pessoas, têm quatro pneus, é movido a motor,
+que nescessita de um condutor, um acelerador, um freio e ignição.
+
+objetos
+
+pneu: suportar o peso do veículo.
+condutor: sem um condutor o carro não funciona, pois ele é que aciona o freio, o acelerador, a ignição.
+freio: serve para parar o veículo, se não o carro não pararia facilmente.
+acelerador: sua função é fazer o veículo começar a se locomover ou aumentar a sua velocidade.
+ignição: deixa todos os outros objetos funcionais, porque se o condutor não acionar a ignição, nada funcionará.
+
